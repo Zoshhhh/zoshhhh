@@ -4,7 +4,7 @@
 
 <h6 align="center">My Stats</h6>
 
-###
+
 
 <br clear="both">
 
@@ -17,7 +17,7 @@
 
 <h6 align="center">My Stacks</h6>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
