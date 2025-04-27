@@ -1,10 +1,8 @@
-<h1 align="center">Welcome to my Github</h5>
+<h1 align="center">Welcome to my Github</h1>
 
 ###
 
 <h6 align="center">My Stats</h6>
- 
-
 
 <br clear="both">
 
@@ -16,8 +14,6 @@
 ###
 
 <h6 align="center">My Stacks</h6>
-
-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -42,3 +38,7 @@
 <img src="https://raw.githubusercontent.com/zoshhhh/zoshhhh/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<p align="center">
+  More information about my projects at <a href="https://kstac.dev" target="_blank">kstac.dev</a>.
+</p>
